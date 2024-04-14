@@ -28,7 +28,6 @@
 11. What is the tenure distribution for each department?
 
 ## Summary of Findings
-Here's the corrected version:
 
 - There are more male employees.
 - White employees are the most dominant, while Native Hawaiian and American Indian employees are the least dominant.
